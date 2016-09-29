@@ -1,4 +1,1 @@
-node()
-{
-     print "DEBUG: parameter foo = ${env.foo}"
-}
+hello world again
